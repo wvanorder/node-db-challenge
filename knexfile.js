@@ -10,7 +10,7 @@ module.exports = {
     migrations: {
       directory: './data/migrations'
     },
-    migrations: {
+    seeds: {
       directory: './data/seeds'
     },
     pool: {
